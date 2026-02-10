@@ -1,0 +1,20 @@
+# Large artifacts
+submission_package/models/
+submission_package/dist_submit/
+submission_package/build/
+**/*.model
+**/*.opt
+**/*.npz
+**/*.npy
+**/*.xlsx
+**/__pycache__/
+**/*.pyc
+third_party/MS-TCN2/logs/
+
+# Local data
+data/
+reports/
+logs/
+
+# OS
+.DS_Store
